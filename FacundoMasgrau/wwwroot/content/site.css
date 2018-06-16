@@ -1,0 +1,67 @@
+﻿
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-image: url('/images/fondo.jpg');
+    background-repeat: repeat;
+    font-family: Georgia;
+    background-attachment:fixed;
+}
+
+
+.table1 {
+    padding-top: 20px;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+}
+
+.fila {
+    background : white;
+    border-color : black;
+    border: 2px solid black;
+}
+
+.columna {
+    border-color: darkblue;
+    border-style:groove;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+tr th.label-info {
+    background-color: #db3b4e;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 7px;
+    color: #FFF;
+}
+
+img.img-rusia-2018{
+   margin-top: 50px;
+   width: 200px;
+}
+
+tr th.label-info1 {
+    background-color: white;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 7px;
+    color: black;
+}
+
+.Title{
+    padding-top:50px;
+    color:white;
+    font-size: 40px;
+}
+
+.campeones{
+    width:230px;
+}

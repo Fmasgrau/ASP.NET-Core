@@ -1,0 +1,11 @@
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.csprojAssemblyReference.cache
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.csproj.CoreCompileInputs.cache
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.AssemblyInfoInputs.cache
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.AssemblyInfo.cs
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\bin\Debug\netcoreapp2.0\FacundoMasgrau.deps.json
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\bin\Debug\netcoreapp2.0\FacundoMasgrau.runtimeconfig.json
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\bin\Debug\netcoreapp2.0\FacundoMasgrau.runtimeconfig.dev.json
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\bin\Debug\netcoreapp2.0\FacundoMasgrau.dll
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\bin\Debug\netcoreapp2.0\FacundoMasgrau.pdb
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.dll
+C:\Users\ALE\Desktop\Facundo\FacundoMasgrau\FacundoMasgrau\obj\Debug\netcoreapp2.0\FacundoMasgrau.pdb

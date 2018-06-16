@@ -1,0 +1,53 @@
+﻿@model FacundoMasgrau.ViewModels.HomeViewModel
+
+<center>
+
+    <div class="div-img">
+        <img src="~/images/rusia-2018.png" alt="Mundial Rusia 2018" class="img-rusia-2018" />
+    </div>
+
+    <table>
+
+        <tr class="tr-titulo">
+            <th class="label-info campeones">Campeon</th>
+            <th class="label-info campeones">Subcampeon</th>
+        </tr>
+        <tr class="tr-titulo">
+            <th class="label-info1 campeones">¿?</th>
+            <th class="label-info1 campeones">¿?</th>
+        </tr>
+
+    </table>
+
+    <table class="table1">
+        
+        
+            <p class="Title">Campeones Históricos</p>
+        
+            <tr class="tr-titulo">
+                <th class="label-info">Año</th>
+                <th class="label-info">Sede</th>
+                <th class="label-info">Campeon</th>
+                <th class="label-info">Subcampeon</th>
+            </tr>
+
+            @foreach (var Mundial in Model.Mundiales)
+            {
+                <tr class="fila">
+
+                    <td class="columna">@Mundial.Año</td>
+                    <td class="columna">@Mundial.Sede</td>
+                    <td class="columna">@Mundial.Campeon</td>
+                    <td class="columna">@Mundial.Subcampeon</td>
+                </tr>
+            }
+</table>
+</center>
+
+
+
+
+
+
+
+
